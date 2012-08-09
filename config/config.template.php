@@ -1,0 +1,7 @@
+<?php
+
+$CONFIG['GOOGLE_API_KEY'] = "";
+$CONFIG['NTTDATA_PROXY_CONF'] = "";
+$CONFIG['CURLOPT_CAINFO'] = "";
+
+?>
