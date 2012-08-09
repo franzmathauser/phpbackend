@@ -81,7 +81,9 @@ $app->get('/rest/places', function () {
     echo($response);
 
 });
-     
+
+
+$app->options('/rest/places', function () {});
   
 
 
